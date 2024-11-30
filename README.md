@@ -2,6 +2,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/f27890a3-43bf-4498-815a-ac289b15d6e2)
+
+
 ### Introduction
 
 
@@ -410,10 +413,7 @@ plt.gca().invert_yaxis()
 plt.show()
 ```
 
-
-    
-![png](output_22_0.png)
-    
+![output_22_0](https://github.com/user-attachments/assets/ab7493ab-6823-43d6-96f2-33db9d14e8d3)
 
 
 > This data shows us that the most food insecure demographic is the `18-35 yrs` old group. This is interesting as the least food insecure group is the `36 yrs and over` group. The difference is approximately double (Approximately 6% vs 12%) suggesting that of those surveyed as they became older, food security improved.
@@ -511,9 +511,8 @@ plt.grid(visible=True, linestyle='--', alpha=0.5)
 plt.show()
 ```
 
+![output_28_0](https://github.com/user-attachments/assets/ec77641c-aee5-450a-bce3-c28db900a772)
 
-    
-![png](output_28_0.png)
     
 
 
@@ -616,9 +615,8 @@ plt.tight_layout()
 plt.show()
 ```
 
+![output_34_0](https://github.com/user-attachments/assets/89f4775b-eda2-4650-b5e2-be1c2aa9210b)
 
-    
-![png](output_34_0.png)
     
 
 
@@ -650,9 +648,8 @@ plt.show()
 ```
 
 
-    
-![png](output_37_0.png)
-    
+![output_37_0](https://github.com/user-attachments/assets/7a0abd35-5e09-4167-af25-6981259bc099)
+
 
 
 From these results you can see that `Female` and `Male` demographics actually had similar boxplots. `40 yrs and over` and `18-39 yrs` had much higher scores on average. Whereas the `18-35 yrs` had the lowest average but similar to `36 yrs and over` had much larger interquartile ranges.
